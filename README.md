@@ -4,4 +4,4 @@ En matemáticas, la sucesipon de Fibonacci, Es la siguiente secesión infinita d
 
 Los números Fibonacci quedan definidos por la ecuación:
 
-fn = fn-1 + fn-2
+<strong>fn = fn-1 + fn-2</strong>
