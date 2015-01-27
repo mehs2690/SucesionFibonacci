@@ -9,6 +9,7 @@ public class Test
 {
 	public static void main(String[] args)
 	{
+		Saludo();
 		int numero = 0;
 		Scanner teclado = new Scanner(System.in);
 		System.out.print("Seleccione un entero para la sucesion de Fibonacci:\t");
@@ -24,5 +25,10 @@ public class Test
 		{
 			System.out.printf("%5d", resul.get(i) );
 		}
+	}
+	
+	public static void Saludo()
+	{
+		System.out.print("Hola desde java!");
 	}
 }
